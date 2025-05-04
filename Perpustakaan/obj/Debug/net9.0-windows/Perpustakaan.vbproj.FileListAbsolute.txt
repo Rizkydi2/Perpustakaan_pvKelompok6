@@ -1,0 +1,126 @@
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.exe
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.deps.json
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form1.resources
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form2.resources
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\refint\Perpustakaan.dll
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\asus\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net9.0-windows\ref\Perpustakaan.dll
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.exe
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.deps.json
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form1.resources
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form2.resources
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form3.resources
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\refint\Perpustakaan.dll
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\ref\Perpustakaan.dll
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Resources.resources
+C:\Users\muham\source\repos\Perpustakaan_pv-main\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.sourcelink.json
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.exe
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.deps.json
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form1.resources
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form2.resources
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form3.resources
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Resources.resources
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.sourcelink.json
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\refint\Perpustakaan.dll
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\Rizky Adinugraha\Source\Repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\ref\Perpustakaan.dll
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.exe
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.deps.json
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form1.resources
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form2.resources
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form3.resources
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Resources.resources
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.sourcelink.json
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\refint\Perpustakaan.dll
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\ref\Perpustakaan.dll
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form4.resources
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form5.resources
+C:\Users\ASUS TUF GAMING\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form6.resources
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form1.resources
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form2.resources
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form3.resources
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form4.resources
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form5.resources
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form6.resources
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Resources.resources
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.sourcelink.json
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\refint\Perpustakaan.dll
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.exe
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.deps.json
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\muham\source\repos\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\ref\Perpustakaan.dll
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.exe
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.deps.json
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\bin\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form1.resources
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form2.resources
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form3.resources
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form4.resources
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form5.resources
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Form6.resources
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.Resources.resources
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.sourcelink.json
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.dll
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\refint\Perpustakaan.dll
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.pdb
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\Rizky Adinugraha\Source\Repos\kontolodon\gataulagi\Perpustakaan_pv-main\Perpustakaan\obj\Debug\net9.0-windows\ref\Perpustakaan.dll
