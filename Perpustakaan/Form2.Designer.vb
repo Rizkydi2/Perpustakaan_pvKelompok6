@@ -42,10 +42,9 @@ Partial Class Form2
         Button4.FlatStyle = FlatStyle.Popup
         Button4.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Button4.ForeColor = Color.White
-        Button4.Location = New Point(393, 208)
-        Button4.Margin = New Padding(2)
+        Button4.Location = New Point(561, 347)
         Button4.Name = "Button4"
-        Button4.Size = New Size(93, 29)
+        Button4.Size = New Size(133, 48)
         Button4.TabIndex = 17
         Button4.Text = "Close"
         Button4.UseVisualStyleBackColor = False
@@ -56,10 +55,9 @@ Partial Class Form2
         Button3.FlatStyle = FlatStyle.Popup
         Button3.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Button3.ForeColor = Color.White
-        Button3.Location = New Point(249, 208)
-        Button3.Margin = New Padding(2)
+        Button3.Location = New Point(356, 347)
         Button3.Name = "Button3"
-        Button3.Size = New Size(140, 29)
+        Button3.Size = New Size(200, 48)
         Button3.TabIndex = 16
         Button3.Text = "Back"
         Button3.UseVisualStyleBackColor = False
@@ -70,10 +68,9 @@ Partial Class Form2
         Button2.FlatStyle = FlatStyle.Flat
         Button2.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Button2.ForeColor = Color.DodgerBlue
-        Button2.Location = New Point(304, 158)
-        Button2.Margin = New Padding(2)
+        Button2.Location = New Point(434, 263)
         Button2.Name = "Button2"
-        Button2.Size = New Size(140, 29)
+        Button2.Size = New Size(200, 48)
         Button2.TabIndex = 15
         Button2.Text = "Register"
         Button2.UseVisualStyleBackColor = False
@@ -82,39 +79,37 @@ Partial Class Form2
         ' 
         Button1.FlatStyle = FlatStyle.Popup
         Button1.Font = New Font("Tahoma", 8.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button1.Location = New Point(436, 115)
-        Button1.Margin = New Padding(2)
+        Button1.Location = New Point(623, 192)
         Button1.Name = "Button1"
-        Button1.Size = New Size(50, 23)
+        Button1.Size = New Size(71, 31)
         Button1.TabIndex = 23
         Button1.Text = "Show"
         Button1.UseVisualStyleBackColor = True
         ' 
         ' txtPassword
         ' 
-        txtPassword.Location = New Point(249, 115)
-        txtPassword.Margin = New Padding(2)
+        txtPassword.Location = New Point(356, 192)
         txtPassword.Name = "txtPassword"
-        txtPassword.Size = New Size(237, 23)
+        txtPassword.PlaceholderText = "Masukkan Password"
+        txtPassword.Size = New Size(337, 31)
         txtPassword.TabIndex = 13
         txtPassword.UseSystemPasswordChar = True
         ' 
         ' txtUsername
         ' 
-        txtUsername.Location = New Point(249, 60)
-        txtUsername.Margin = New Padding(2)
+        txtUsername.Location = New Point(356, 100)
         txtUsername.Name = "txtUsername"
-        txtUsername.Size = New Size(237, 23)
+        txtUsername.PlaceholderText = "Masukkan Username"
+        txtUsername.Size = New Size(337, 31)
         txtUsername.TabIndex = 12
         ' 
         ' Label3
         ' 
         Label3.AutoSize = True
         Label3.Font = New Font("Tahoma", 9.75F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label3.Location = New Point(249, 42)
-        Label3.Margin = New Padding(2, 0, 2, 0)
+        Label3.Location = New Point(356, 70)
         Label3.Name = "Label3"
-        Label3.Size = New Size(65, 16)
+        Label3.Size = New Size(100, 24)
         Label3.TabIndex = 11
         Label3.Text = "Username"
         ' 
@@ -122,10 +117,9 @@ Partial Class Form2
         ' 
         Label2.AutoSize = True
         Label2.Font = New Font("Tahoma", 9.75F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label2.Location = New Point(249, 97)
-        Label2.Margin = New Padding(2, 0, 2, 0)
+        Label2.Location = New Point(356, 162)
         Label2.Name = "Label2"
-        Label2.Size = New Size(62, 16)
+        Label2.Size = New Size(94, 24)
         Label2.TabIndex = 10
         Label2.Text = "Password"
         ' 
@@ -133,10 +127,9 @@ Partial Class Form2
         ' 
         Label1.AutoSize = True
         Label1.Font = New Font("Tahoma", 15.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label1.Location = New Point(335, 9)
-        Label1.Margin = New Padding(2, 0, 2, 0)
+        Label1.Location = New Point(479, 15)
         Label1.Name = "Label1"
-        Label1.Size = New Size(92, 25)
+        Label1.Size = New Size(140, 39)
         Label1.TabIndex = 9
         Label1.Text = "Sign Up"
         ' 
@@ -145,9 +138,10 @@ Partial Class Form2
         PictureBox1.BackColor = Color.DodgerBlue
         PictureBox1.BackgroundImage = My.Resources.Resources.person_80dp_FFFFFF_FILL0_wght400_GRAD0_opsz48
         PictureBox1.BackgroundImageLayout = ImageLayout.Center
-        PictureBox1.Location = New Point(-3, -3)
+        PictureBox1.Location = New Point(-4, -5)
+        PictureBox1.Margin = New Padding(4, 5, 4, 5)
         PictureBox1.Name = "PictureBox1"
-        PictureBox1.Size = New Size(207, 276)
+        PictureBox1.Size = New Size(296, 460)
         PictureBox1.TabIndex = 28
         PictureBox1.TabStop = False
         ' 
@@ -158,17 +152,18 @@ Partial Class Form2
         Label4.FlatStyle = FlatStyle.Flat
         Label4.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Label4.ForeColor = Color.White
-        Label4.Location = New Point(40, 165)
+        Label4.Location = New Point(57, 275)
+        Label4.Margin = New Padding(4, 0, 4, 0)
         Label4.Name = "Label4"
-        Label4.Size = New Size(116, 14)
+        Label4.Size = New Size(164, 22)
         Label4.TabIndex = 29
         Label4.Text = "Authentication User"
         ' 
         ' Form2
         ' 
-        AutoScaleDimensions = New SizeF(7F, 15F)
+        AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(559, 270)
+        ClientSize = New Size(799, 450)
         Controls.Add(Label4)
         Controls.Add(PictureBox1)
         Controls.Add(Button4)
@@ -180,7 +175,6 @@ Partial Class Form2
         Controls.Add(Label3)
         Controls.Add(Label2)
         Controls.Add(Label1)
-        Margin = New Padding(2)
         Name = "Form2"
         Text = "Form2"
         CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()

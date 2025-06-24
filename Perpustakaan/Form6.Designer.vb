@@ -35,9 +35,10 @@ Partial Class Form6
         Label1.FlatStyle = FlatStyle.Flat
         Label1.Font = New Font("Tahoma", 15.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Label1.ForeColor = Color.White
-        Label1.Location = New Point(271, 9)
+        Label1.Location = New Point(387, 15)
+        Label1.Margin = New Padding(4, 0, 4, 0)
         Label1.Name = "Label1"
-        Label1.Size = New Size(142, 29)
+        Label1.Size = New Size(219, 48)
         Label1.TabIndex = 0
         Label1.Text = "Histori Buku"
         ' 
@@ -46,40 +47,43 @@ Partial Class Form6
         ButtonBack.BackColor = Color.SteelBlue
         ButtonBack.FlatStyle = FlatStyle.Popup
         ButtonBack.ForeColor = Color.White
-        ButtonBack.Location = New Point(92, 276)
+        ButtonBack.Location = New Point(131, 460)
+        ButtonBack.Margin = New Padding(4, 5, 4, 5)
         ButtonBack.Name = "ButtonBack"
-        ButtonBack.Size = New Size(93, 23)
+        ButtonBack.Size = New Size(133, 38)
         ButtonBack.TabIndex = 2
         ButtonBack.Text = "Back"
         ButtonBack.UseVisualStyleBackColor = False
         ' 
         ' ListViewHistory
         ' 
-        ListViewHistory.Location = New Point(92, 72)
+        ListViewHistory.Location = New Point(131, 120)
+        ListViewHistory.Margin = New Padding(4, 5, 4, 5)
         ListViewHistory.Name = "ListViewHistory"
-        ListViewHistory.Size = New Size(538, 186)
+        ListViewHistory.Size = New Size(767, 307)
         ListViewHistory.TabIndex = 3
         ListViewHistory.UseCompatibleStateImageBehavior = False
         ' 
         ' PictureBox1
         ' 
         PictureBox1.BackColor = SystemColors.ButtonShadow
-        PictureBox1.Location = New Point(-5, -1)
+        PictureBox1.Location = New Point(-7, -2)
+        PictureBox1.Margin = New Padding(4, 5, 4, 5)
         PictureBox1.Name = "PictureBox1"
-        PictureBox1.Size = New Size(709, 50)
+        PictureBox1.Size = New Size(1013, 83)
         PictureBox1.TabIndex = 4
         PictureBox1.TabStop = False
         ' 
         ' Form6
         ' 
-        AutoScaleDimensions = New SizeF(7F, 15F)
+        AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(700, 346)
+        ClientSize = New Size(1000, 577)
         Controls.Add(ListViewHistory)
         Controls.Add(ButtonBack)
         Controls.Add(Label1)
         Controls.Add(PictureBox1)
-        Margin = New Padding(3, 2, 3, 2)
+        Margin = New Padding(4, 3, 4, 3)
         Name = "Form6"
         Text = "Form6"
         CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()

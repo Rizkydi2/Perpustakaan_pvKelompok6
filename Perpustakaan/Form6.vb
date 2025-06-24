@@ -137,14 +137,9 @@ Public Class Form6
 
     ' --- Event Handler Tombol Back ---
     Private Sub ButtonBack_Click(sender As Object, e As EventArgs) Handles ButtonBack.Click ' Sesuaikan nama tombol Back
+        Dim frm As New Form3()
+        frm.Show()
         Me.Close()
-        ' Cari dan tampilkan Form3
-        For Each frm As Form In Application.OpenForms
-            If TypeOf frm Is Form3 Then
-                frm.Show()
-                Exit For
-            End If
-        Next
     End Sub
 
 End Class

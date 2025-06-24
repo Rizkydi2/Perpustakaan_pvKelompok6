@@ -28,6 +28,7 @@ Partial Class Form3
         Button3 = New Button()
         Button4 = New Button()
         Label2 = New Label()
+        Button2 = New Button()
         SuspendLayout()
         ' 
         ' Label1
@@ -46,34 +47,40 @@ Partial Class Form3
         ' Button1
         ' 
         Button1.Font = New Font("Tahoma", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button1.Location = New Point(152, 81)
+        Button1.Image = My.Resources.Resources.borrow1
+        Button1.Location = New Point(172, 72)
         Button1.Margin = New Padding(3, 2, 3, 2)
         Button1.Name = "Button1"
-        Button1.Size = New Size(201, 37)
+        Button1.Size = New Size(206, 128)
         Button1.TabIndex = 1
         Button1.Text = "Peminjaman/Pengembalian"
+        Button1.TextAlign = ContentAlignment.BottomCenter
         Button1.UseVisualStyleBackColor = True
         ' 
         ' ButtonEditBuku
         ' 
         ButtonEditBuku.Font = New Font("Tahoma", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        ButtonEditBuku.Location = New Point(152, 140)
+        ButtonEditBuku.Image = My.Resources.Resources.editorial_design1
+        ButtonEditBuku.Location = New Point(404, 72)
         ButtonEditBuku.Margin = New Padding(3, 2, 3, 2)
         ButtonEditBuku.Name = "ButtonEditBuku"
-        ButtonEditBuku.Size = New Size(201, 37)
+        ButtonEditBuku.Size = New Size(201, 128)
         ButtonEditBuku.TabIndex = 2
         ButtonEditBuku.Text = "Edit Buku"
+        ButtonEditBuku.TextAlign = ContentAlignment.BottomCenter
         ButtonEditBuku.UseVisualStyleBackColor = True
         ' 
         ' Button3
         ' 
         Button3.Font = New Font("Tahoma", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Button3.Location = New Point(152, 198)
+        Button3.Image = My.Resources.Resources.book1
+        Button3.Location = New Point(640, 72)
         Button3.Margin = New Padding(3, 2, 3, 2)
         Button3.Name = "Button3"
-        Button3.Size = New Size(201, 37)
+        Button3.Size = New Size(201, 128)
         Button3.TabIndex = 3
         Button3.Text = "History Peminjaman"
+        Button3.TextAlign = ContentAlignment.BottomCenter
         Button3.UseVisualStyleBackColor = True
         ' 
         ' Button4
@@ -82,7 +89,7 @@ Partial Class Form3
         Button4.FlatStyle = FlatStyle.Popup
         Button4.Font = New Font("Tahoma", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Button4.ForeColor = Color.White
-        Button4.Location = New Point(28, 207)
+        Button4.Location = New Point(20, 172)
         Button4.Margin = New Padding(3, 2, 3, 2)
         Button4.Name = "Button4"
         Button4.Size = New Size(95, 28)
@@ -101,19 +108,32 @@ Partial Class Form3
         Label2.TabIndex = 5
         Label2.Text = "Silahkan Pilih button yang tertera untuk mengakses form selanjutnya"
         ' 
+        ' Button2
+        ' 
+        Button2.Font = New Font("Tahoma", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Button2.Location = New Point(177, 218)
+        Button2.Margin = New Padding(3, 2, 3, 2)
+        Button2.Name = "Button2"
+        Button2.Size = New Size(201, 128)
+        Button2.TabIndex = 6
+        Button2.Text = "Detail Buku"
+        Button2.TextAlign = ContentAlignment.BottomCenter
+        Button2.UseVisualStyleBackColor = True
+        ' 
         ' Form3
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackgroundImageLayout = ImageLayout.None
-        ClientSize = New Size(492, 257)
+        ClientSize = New Size(878, 357)
+        Controls.Add(Button2)
         Controls.Add(Label2)
         Controls.Add(Button4)
         Controls.Add(Button3)
         Controls.Add(ButtonEditBuku)
         Controls.Add(Button1)
         Controls.Add(Label1)
-        Margin = New Padding(2)
+        Margin = New Padding(2, 2, 2, 2)
         Name = "Form3"
         Text = "Form3"
         ResumeLayout(False)
@@ -126,4 +146,5 @@ Partial Class Form3
     Friend WithEvents Button3 As Button
     Friend WithEvents Button4 As Button
     Friend WithEvents Label2 As Label
+    Friend WithEvents Button2 As Button
 End Class

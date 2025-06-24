@@ -7,6 +7,12 @@ Imports System.Drawing
 '==> MULAI DEFINISI CLASS Form4 (Harus Pertama di file ini) <==
 '===========================================================
 Public Class Form4
+    Private namaUserLogin As String
+
+    Public Sub New(namaUser As String)
+        InitializeComponent()
+        namaUserLogin = namaUser
+    End Sub
 
     ' Tidak ada lagi _loggedInUserName
     Private allBooks As New List(Of Book)
@@ -19,12 +25,14 @@ Public Class Form4
         InitializeComponent()
     End Sub
     ' ============================================
+    Public Sub IsiJudulBuku(judul As String)
+        TextBoxJudulPinjam.Text = judul
+    End Sub
 
     Private Sub Form4_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         ' === Nama Peminjam KOSONG dan BISA DIEDIT ===
-        TextBoxNamaPeminjam.Text = ""
-        TextBoxNamaPeminjam.ReadOnly = False
-        ' ===========================================
+        TextBoxNamaPeminjam.Text = namaUserLogin
+        TampilkanDaftarPinjamanUserSendiri()
 
         SetupListViews() ' Panggil setup via kode
 
@@ -232,12 +240,13 @@ Public Class Form4
     End Sub
 
     Private Sub ButtonPinjam_Click(sender As Object, e As EventArgs) Handles ButtonPinjam.Click
-        If ListView1.SelectedItems.Count = 0 Then
-            MessageBox.Show("Silakan pilih buku yang tersedia dari daftar.", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+        Dim judulDipilih As String = TextBoxJudulPinjam.Text.Trim().ToLower()
+        Dim selectedBook As Book = allBooks.FirstOrDefault(Function(b) b.Judul.ToLower() = judulDipilih)
+
+        If selectedBook Is Nothing Then
+            MessageBox.Show("Buku tidak ditemukan.")
             Return
         End If
-        Dim selectedBook As Book = TryCast(ListView1.SelectedItems(0).Tag, Book)
-        If selectedBook Is Nothing Then Return
 
         ' === Ambil nama peminjam dari TextBox ===
         Dim namaPeminjam = TextBoxNamaPeminjam.Text.Trim()
@@ -335,6 +344,39 @@ Public Class Form4
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Me.Close()
+    End Sub
+
+    Private Sub GroupBox1_Enter(sender As Object, e As EventArgs) Handles GroupBox1.Enter
+
+    End Sub
+
+    Private Sub TextBoxNamaPeminjam_TextChanged(sender As Object, e As EventArgs) Handles TextBoxNamaPeminjam.TextChanged
+
+    End Sub
+    Private Sub TampilkanDaftarPinjamanUserSendiri()
+        ListView2.Items.Clear()
+
+        Dim path As String = "loans.csv"
+        If Not File.Exists(path) Then Return
+
+        Dim lines() As String = File.ReadAllLines(path)
+
+        For i As Integer = 1 To lines.Length - 1 ' Skip header
+            Dim data() As String = lines(i).Split(","c)
+            If data.Length >= 4 Then
+                Dim judul = data(1).Trim()
+                Dim peminjam = data(2).Trim()
+                Dim tanggal = data(3).Trim()
+
+                ' Filter hanya buku yang dipinjam oleh user login
+                If peminjam.Equals(namaUserLogin, StringComparison.OrdinalIgnoreCase) Then
+                    Dim item As New ListViewItem(judul)
+                    item.SubItems.Add(peminjam)
+                    item.SubItems.Add(tanggal)
+                    ListView2.Items.Add(item)
+                End If
+            End If
+        Next
     End Sub
 End Class ' <<<<<< AKHIR DARI CLASS FORM4
 

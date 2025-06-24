@@ -58,6 +58,7 @@ Public Class Form1
             If loginBerhasil Then
                 MessageBox.Show("Login berhasil!.")
                 ' Jika berhasil, buka Form3 dan kirim NAMA serta ROLE
+                Dim namaUser As String = namaUserYangLogin
                 Dim frm3 As New Form3(namaUserYangLogin, roleUserYangLogin)
                 frm3.Show()
                 Me.Hide()
@@ -96,4 +97,7 @@ Public Class Form1
         Application.Exit()
     End Sub
 
+    Private Sub TextBoxUsername_TextChanged(sender As Object, e As EventArgs) Handles TextBoxUsername.TextChanged
+
+    End Sub
 End Class

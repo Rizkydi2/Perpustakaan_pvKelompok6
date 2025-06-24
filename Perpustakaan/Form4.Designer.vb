@@ -35,15 +35,17 @@ Partial Class Form4
         Button1 = New Button()
         Label5 = New Label()
         Label1 = New Label()
+        GroupBox1 = New GroupBox()
+        GroupBox2 = New GroupBox()
         SuspendLayout()
         ' 
         ' ButtonPinjam
         ' 
         ButtonPinjam.BackColor = Color.LimeGreen
         ButtonPinjam.FlatStyle = FlatStyle.Popup
-        ButtonPinjam.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        ButtonPinjam.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         ButtonPinjam.ForeColor = Color.White
-        ButtonPinjam.Location = New Point(560, 78)
+        ButtonPinjam.Location = New Point(281, 99)
         ButtonPinjam.Name = "ButtonPinjam"
         ButtonPinjam.Size = New Size(84, 23)
         ButtonPinjam.TabIndex = 0
@@ -52,8 +54,10 @@ Partial Class Form4
         ' 
         ' TextBoxNamaPeminjam
         ' 
-        TextBoxNamaPeminjam.Location = New Point(154, 79)
+        TextBoxNamaPeminjam.Location = New Point(26, 100)
         TextBoxNamaPeminjam.Name = "TextBoxNamaPeminjam"
+        TextBoxNamaPeminjam.PlaceholderText = "Masukkan penerbit buku"
+        TextBoxNamaPeminjam.ReadOnly = True
         TextBoxNamaPeminjam.Size = New Size(124, 23)
         TextBoxNamaPeminjam.TabIndex = 2
         ' 
@@ -61,7 +65,7 @@ Partial Class Form4
         ' 
         ListView1.FullRowSelect = True
         ListView1.GridLines = True
-        ListView1.Location = New Point(154, 118)
+        ListView1.Location = New Point(26, 139)
         ListView1.Name = "ListView1"
         ListView1.Size = New Size(481, 97)
         ListView1.TabIndex = 3
@@ -72,7 +76,7 @@ Partial Class Form4
         ' 
         Label2.AutoSize = True
         Label2.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label2.Location = New Point(154, 62)
+        Label2.Location = New Point(26, 83)
         Label2.Name = "Label2"
         Label2.Size = New Size(37, 14)
         Label2.TabIndex = 4
@@ -82,7 +86,7 @@ Partial Class Form4
         ' 
         Label3.AutoSize = True
         Label3.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label3.Location = New Point(454, 62)
+        Label3.Location = New Point(175, 83)
         Label3.Name = "Label3"
         Label3.Size = New Size(35, 14)
         Label3.TabIndex = 5
@@ -90,23 +94,25 @@ Partial Class Form4
         ' 
         ' TextBoxJudulPinjam
         ' 
-        TextBoxJudulPinjam.Location = New Point(454, 79)
+        TextBoxJudulPinjam.Location = New Point(175, 100)
         TextBoxJudulPinjam.Name = "TextBoxJudulPinjam"
+        TextBoxJudulPinjam.PlaceholderText = "Masukkan Judul Buku"
         TextBoxJudulPinjam.Size = New Size(100, 23)
         TextBoxJudulPinjam.TabIndex = 6
         ' 
         ' TextBoxJudulKembali
         ' 
-        TextBoxJudulKembali.Location = New Point(454, 292)
+        TextBoxJudulKembali.Location = New Point(29, 335)
         TextBoxJudulKembali.Name = "TextBoxJudulKembali"
-        TextBoxJudulKembali.Size = New Size(100, 23)
+        TextBoxJudulKembali.PlaceholderText = "Masukkan judul buku"
+        TextBoxJudulKembali.Size = New Size(246, 23)
         TextBoxJudulKembali.TabIndex = 13
         ' 
         ' Label4
         ' 
         Label4.AutoSize = True
         Label4.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label4.Location = New Point(454, 274)
+        Label4.Location = New Point(29, 318)
         Label4.Name = "Label4"
         Label4.Size = New Size(35, 14)
         Label4.TabIndex = 12
@@ -116,7 +122,7 @@ Partial Class Form4
         ' 
         ListView2.FullRowSelect = True
         ListView2.GridLines = True
-        ListView2.Location = New Point(154, 322)
+        ListView2.Location = New Point(26, 374)
         ListView2.Name = "ListView2"
         ListView2.Size = New Size(481, 84)
         ListView2.TabIndex = 10
@@ -127,9 +133,9 @@ Partial Class Form4
         ' 
         ButtonKembalikan.BackColor = Color.LimeGreen
         ButtonKembalikan.FlatStyle = FlatStyle.Popup
-        ButtonKembalikan.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        ButtonKembalikan.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         ButtonKembalikan.ForeColor = Color.White
-        ButtonKembalikan.Location = New Point(560, 292)
+        ButtonKembalikan.Location = New Point(281, 335)
         ButtonKembalikan.Name = "ButtonKembalikan"
         ButtonKembalikan.Size = New Size(84, 24)
         ButtonKembalikan.TabIndex = 7
@@ -142,9 +148,9 @@ Partial Class Form4
         Button1.FlatStyle = FlatStyle.Popup
         Button1.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Button1.ForeColor = Color.White
-        Button1.Location = New Point(679, 410)
+        Button1.Location = New Point(26, 489)
         Button1.Name = "Button1"
-        Button1.Size = New Size(75, 23)
+        Button1.Size = New Size(481, 33)
         Button1.TabIndex = 14
         Button1.Text = "Close"
         Button1.UseVisualStyleBackColor = False
@@ -153,12 +159,11 @@ Partial Class Form4
         ' 
         Label5.AutoSize = True
         Label5.BackColor = Color.Transparent
-        Label5.BorderStyle = BorderStyle.FixedSingle
         Label5.Font = New Font("Tahoma", 15.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label5.Location = New Point(317, 11)
+        Label5.Location = New Point(26, 36)
         Label5.Margin = New Padding(2, 0, 2, 0)
         Label5.Name = "Label5"
-        Label5.Size = New Size(205, 27)
+        Label5.Size = New Size(203, 25)
         Label5.TabIndex = 19
         Label5.Text = "Peminjaman Buku"
         ' 
@@ -167,18 +172,34 @@ Partial Class Form4
         Label1.AutoSize = True
         Label1.BackColor = Color.Transparent
         Label1.Font = New Font("Tahoma", 15.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label1.Location = New Point(317, 236)
+        Label1.Location = New Point(29, 281)
         Label1.Margin = New Padding(2, 0, 2, 0)
         Label1.Name = "Label1"
         Label1.Size = New Size(219, 25)
         Label1.TabIndex = 20
         Label1.Text = "Pengembalian Buku" & vbCrLf
         ' 
+        ' GroupBox1
+        ' 
+        GroupBox1.Location = New Point(12, 18)
+        GroupBox1.Name = "GroupBox1"
+        GroupBox1.Size = New Size(505, 233)
+        GroupBox1.TabIndex = 21
+        GroupBox1.TabStop = False
+        ' 
+        ' GroupBox2
+        ' 
+        GroupBox2.Location = New Point(17, 257)
+        GroupBox2.Name = "GroupBox2"
+        GroupBox2.Size = New Size(500, 226)
+        GroupBox2.TabIndex = 22
+        GroupBox2.TabStop = False
+        ' 
         ' Form4
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 474)
+        ClientSize = New Size(550, 522)
         Controls.Add(Label1)
         Controls.Add(Label5)
         Controls.Add(Button1)
@@ -192,6 +213,8 @@ Partial Class Form4
         Controls.Add(ListView1)
         Controls.Add(TextBoxNamaPeminjam)
         Controls.Add(ButtonPinjam)
+        Controls.Add(GroupBox1)
+        Controls.Add(GroupBox2)
         Name = "Form4"
         Text = "Form4"
         ResumeLayout(False)
@@ -211,4 +234,6 @@ Partial Class Form4
     Friend WithEvents Button1 As Button
     Friend WithEvents Label5 As Label
     Friend WithEvents Label1 As Label
+    Friend WithEvents GroupBox1 As GroupBox
+    Friend WithEvents GroupBox2 As GroupBox
 End Class

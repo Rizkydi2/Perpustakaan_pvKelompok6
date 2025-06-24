@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Perpustakaan"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ee69508075a5ef7fe28ce4566909717a82d6f74"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eb77d0eb19a1cfc4d0e6c7290ce355070fa1932"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Perpustakaan"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Perpustakaan"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

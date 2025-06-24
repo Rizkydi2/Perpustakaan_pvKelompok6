@@ -43,7 +43,7 @@ Partial Class Form1
         ButtonClose.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         ButtonClose.ForeColor = Color.White
         ButtonClose.Location = New Point(388, 201)
-        ButtonClose.Margin = New Padding(2)
+        ButtonClose.Margin = New Padding(2, 2, 2, 2)
         ButtonClose.Name = "ButtonClose"
         ButtonClose.Size = New Size(93, 31)
         ButtonClose.TabIndex = 26
@@ -57,7 +57,7 @@ Partial Class Form1
         ButtonSignUp.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         ButtonSignUp.ForeColor = Color.White
         ButtonSignUp.Location = New Point(244, 201)
-        ButtonSignUp.Margin = New Padding(2)
+        ButtonSignUp.Margin = New Padding(2, 2, 2, 2)
         ButtonSignUp.Name = "ButtonSignUp"
         ButtonSignUp.Size = New Size(140, 31)
         ButtonSignUp.TabIndex = 25
@@ -71,7 +71,7 @@ Partial Class Form1
         ButtonLogin.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         ButtonLogin.ForeColor = Color.DodgerBlue
         ButtonLogin.Location = New Point(297, 149)
-        ButtonLogin.Margin = New Padding(2)
+        ButtonLogin.Margin = New Padding(2, 2, 2, 2)
         ButtonLogin.Name = "ButtonLogin"
         ButtonLogin.Size = New Size(140, 31)
         ButtonLogin.TabIndex = 24
@@ -83,9 +83,9 @@ Partial Class Form1
         ButtonShowPassword.FlatStyle = FlatStyle.Popup
         ButtonShowPassword.Font = New Font("Tahoma", 8.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         ButtonShowPassword.Location = New Point(431, 111)
-        ButtonShowPassword.Margin = New Padding(2)
+        ButtonShowPassword.Margin = New Padding(2, 2, 2, 2)
         ButtonShowPassword.Name = "ButtonShowPassword"
-        ButtonShowPassword.Size = New Size(50, 22)
+        ButtonShowPassword.Size = New Size(50, 17)
         ButtonShowPassword.TabIndex = 23
         ButtonShowPassword.Text = "Show"
         ButtonShowPassword.UseVisualStyleBackColor = True
@@ -94,8 +94,9 @@ Partial Class Form1
         ' 
         TextBoxPassword.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         TextBoxPassword.Location = New Point(244, 111)
-        TextBoxPassword.Margin = New Padding(2)
+        TextBoxPassword.Margin = New Padding(2, 2, 2, 2)
         TextBoxPassword.Name = "TextBoxPassword"
+        TextBoxPassword.PlaceholderText = "Masukkan Password"
         TextBoxPassword.Size = New Size(237, 22)
         TextBoxPassword.TabIndex = 22
         TextBoxPassword.UseSystemPasswordChar = True
@@ -104,8 +105,9 @@ Partial Class Form1
         ' 
         TextBoxUsername.Font = New Font("Tahoma", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         TextBoxUsername.Location = New Point(244, 54)
-        TextBoxUsername.Margin = New Padding(2)
+        TextBoxUsername.Margin = New Padding(2, 2, 2, 2)
         TextBoxUsername.Name = "TextBoxUsername"
+        TextBoxUsername.PlaceholderText = "Masukkan Username"
         TextBoxUsername.Size = New Size(237, 22)
         TextBoxUsername.TabIndex = 21
         ' 
@@ -184,7 +186,7 @@ Partial Class Form1
         Controls.Add(Label2)
         Controls.Add(Label1)
         DoubleBuffered = True
-        Margin = New Padding(2)
+        Margin = New Padding(2, 2, 2, 2)
         Name = "Form1"
         Text = "Form1"
         CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()

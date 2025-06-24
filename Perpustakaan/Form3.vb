@@ -1,19 +1,19 @@
 ﻿Public Class Form3
-    Private _loggedInUserName As String
-    Private _currentUserRole As String
+    Private namaUserLogin As String
+    Private roleUserLogin As String
+    Public Sub New()
+    End Sub
 
     ' Constructor yang menerima Nama dan Role dari Form1
-    Public Sub New(ByVal loggedInUserName As String, ByVal userRole As String)
-        InitializeComponent() ' Jangan hapus ini
-
-        ' Simpan nilai yang diterima
-        _loggedInUserName = loggedInUserName
-        _currentUserRole = userRole
+    Public Sub New(namaUser As String, roleUser As String)
+        InitializeComponent()
+        namaUserLogin = namaUser
+        roleUserLogin = roleUser
     End Sub
 
     ' Event yang dijalankan saat form pertama kali dimuat
     Private Sub FormMenu_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        If _currentUserRole.Trim().ToLower() = "admin" Then
+        If roleUserLogin.Trim().ToLower() = "admin" Then
             ButtonEditBuku.Enabled = True  ' Aktifkan jika Admin
             ButtonEditBuku.Visible = True
         Else
@@ -42,8 +42,9 @@
 
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Form4.Show()
-        Me.Close()
+        Dim frm4 As New Form4(namaUserLogin) ' ← Kirim nama ke Form4
+        frm4.Show()
+        Me.Hide()
     End Sub
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
@@ -52,7 +53,13 @@
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        Form6.Show()
-        Me.Close()
+        Form6.Show
+        Close
+    End Sub
+
+    Private Sub Button2_Click_1(sender As Object, e As EventArgs) Handles Button2.Click
+        Dim frm7 As New Form7()
+        frm7.Show()
+        Me.Hide()
     End Sub
 End Class
